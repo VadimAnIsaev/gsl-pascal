@@ -5,7 +5,7 @@
   gsl_const_num.h
  
  *********************************************************}
-
+Const
   GSL_CONST_NUM_FINE_STRUCTURE	= 7.297352533e-3; //  1 
   GSL_CONST_NUM_AVOGADRO	= 6.02214199e23; //  1 / mol 
   GSL_CONST_NUM_YOTTA		= 1e24; //  1 
