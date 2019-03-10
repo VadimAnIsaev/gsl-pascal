@@ -5,7 +5,7 @@
   gsl_const_mksa.h
  
  *********************************************************}
- 
+Const 
   GSL_CONST_MKSA_SPEED_OF_LIGHT		= 2.99792458e8; //  m / s 
   GSL_CONST_MKSA_GRAVITATIONAL_CONSTANT	= 6.673e-11; //  m^3 / kg s^2 
   GSL_CONST_MKSA_PLANCKS_CONSTANT_H	= 6.62606896e-34; //  kg m^2 / s 
