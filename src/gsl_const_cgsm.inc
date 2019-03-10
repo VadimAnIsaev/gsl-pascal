@@ -5,7 +5,7 @@
   gsl_const_cgsm.h
  
  *********************************************************}
-
+Const
   GSL_CONST_CGSM_SPEED_OF_LIGHT		= 2.99792458e10; //  cm / s 
   GSL_CONST_CGSM_GRAVITATIONAL_CONSTANT	= 6.673e-8; //  cm^3 / g s^2 
   GSL_CONST_CGSM_PLANCKS_CONSTANT_H	= 6.62606896e-27; //  g cm^2 / s 
